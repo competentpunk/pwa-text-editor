@@ -1,16 +1,10 @@
 # pwa-text-editor
 
-ADD SCREENCASTIFY LINK
+https://github.com/competentpunk/pwa-text-editor
 
 ## Description
 
-This application edits text and stuff
-
-### Additional key elements:
-- MongoDB
-- API Construction
-- Express.js
-- Mongoose ODM
+This application is a jate text editor that the user can download.
 
 ## Table of Contents 
 
@@ -18,9 +12,9 @@ This application edits text and stuff
 - [License](#license)
 
 ## Installation
-
-See Screencastify for video demonstration
-ADD SCREENCASTIFY LINK
+Navigate to this link 
+https://github.com/competentpunk/pwa-text-editor
+Click the "install" button
 
 ## License
 
